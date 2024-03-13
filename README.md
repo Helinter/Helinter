@@ -24,6 +24,11 @@
 <img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/>
+
+Мои контакты:
+
+helarandaragan999@gmail.com
+https://t.me/hristaphorusis
 <!--
 **Helinter/Helinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
