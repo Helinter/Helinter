@@ -5,6 +5,8 @@
 
 Вижу цель - иду к ней
 
+js  scss  html  css  sass  git 
+
 <!--
 **Helinter/Helinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
